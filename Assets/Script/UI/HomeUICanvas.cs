@@ -9,4 +9,10 @@ public class HomeUICanvas : UICanvas
         Hide();
         UIHelper.FindScript<GameUICanvas>().Show();
     }
+
+    public void OnShop()
+    {
+        Hide();
+        UIHelper.FindScript<ShopUICanvas>().Show();
+    }    
 }

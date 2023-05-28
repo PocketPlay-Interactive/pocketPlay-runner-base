@@ -1,3 +1,4 @@
+using DG.Tweening;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,6 +6,7 @@ using UnityEngine;
 public partial class PlayerController : MonoBehaviour
 {
     public int Score = 0;
+    private int skinIndex = 0;
     private void Awake()
     {
 
@@ -12,8 +14,56 @@ public partial class PlayerController : MonoBehaviour
 
     private void Start()
     {
-
+        this.transform.ForChild((i, _child) =>
+        {
+            if (i == skinIndex)
+                _child.SetActive(true);
+            else
+                _child.SetActive(false);
+        });
     }
+
+    private void OnEnable()
+    {
+        GameEvent.OnChangeSkin += OnChangeSkin;
+    }
+
+    private void OnDisable()
+    {
+        GameEvent.OnChangeSkin -= OnChangeSkin;
+    }
+
+    private void OnChangeSkin(int director)
+    {
+        var nowSkin = this.transform.GetChild(skinIndex);
+        var newSkinIndex = skinIndex + director;
+        Transform newSkin = null;
+        switch (director)
+        {
+            case -1:
+                if (skinIndex == 0)
+                    newSkinIndex = this.transform.childCount - 1;
+                newSkin = this.transform.GetChild(newSkinIndex);
+                newSkin.localPosition = newSkin.localPosition.WithX(-3);
+                newSkin.SetActive(true);
+                nowSkin.DOKill();
+                nowSkin.DOLocalMoveX(3, 0.25f).OnComplete(() => nowSkin.SetActive(false));
+                newSkin.DOKill();
+                newSkin.DOLocalMoveX(0, 0.25f).OnComplete(() => skinIndex = newSkinIndex);
+                break;
+            case 1:
+                if (skinIndex == this.transform.childCount - 1)
+                    newSkinIndex = 0;
+                newSkin = this.transform.GetChild(newSkinIndex);
+                newSkin.localPosition = newSkin.localPosition.WithX(3);
+                newSkin.SetActive(true);
+                nowSkin.DOKill();
+                nowSkin.DOLocalMoveX(-3, 0.25f).OnComplete(() => nowSkin.SetActive(false));
+                newSkin.DOKill();
+                newSkin.DOLocalMoveX(0, 0.25f).OnComplete(() => skinIndex = newSkinIndex);
+                break;
+        }    
+    }    
 
     public void Create()
     {

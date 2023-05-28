@@ -45,7 +45,14 @@ public class GameController : MonoSingleton<GameController>
         mapController.Create();
         obstacleController.Create();
 
-        UIHelper.GetScript<HomeUICanvas>().Show();
+        bool notification = PrefManager.GetBool("notification", false);
+        if (notification)
+            UIHelper.GetScript<HomeUICanvas>().Show();
+        else
+        {
+            PrefManager.SetBool("notification", true);
+            UIHelper.GetScript<NotificationUICanvas>().Show();
+        }    
     }
 
     public void OnDead()
