@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a251039388c5d74ea41a98442af13a0, type: 3}
+  m_Name: VoodooSettings
+  m_EditorClassIdentifier:
+  Store: worldwide
+  AccessTokenID: 460c7baa-bd1b-41f1-9cbd-e6b51c8a61a8
+  LastUpdateDate: 10/12/2021 14:43:54
+  EnableInEditorUnityAds: 1
+  EnableInEditorRVAds: 1
+  EnableInEditorFSAds: 1
+  EnableIosABTests: 1
+  EnableCustomIosABTestsCountryCodes: 0
+  MaxPercentOfTotalIosCohorts: 0.25
+  MixpanelUsersPercentPerCohort: 0.05
+  RunningIosABTests:
+  - ShowSkipButton
+  CustomIosABTestsCountryCodes:
+  - US
+  DebugForcedCohort:
+    index: 0
+  EnableAndroidABTests: 0
+  EnableCustomAndroidABTestsCountryCodes: 0
+  MaxPercentOfTotalAndroidCohorts: 0.25
+  AndroidUsersPercentPerCohort: 0.05
+  RunningAndroidABTests: []
+  CustomAndroidABTestsCountryCodes:
+  - US
+  DebugAndroidForcedCohort:
+    index: 0
+  AndroidIAPEnabled: 1
+  iOSIAPEnabled: 1
+  NoAdsBundleId:
+  Products:
+  - _productId: com.neonplay.casualsoccerkick.iap1
+    _type: 1
+    _priceInUSD: 2.99
+  - _productId: com.neonplay.casualsoccerkick.iap2
+    _type: 0
+    _priceInUSD: 0.99
+  SubscriptionSharedKey:
+  StudioLogoForSplashScreen: {fileID: 2800000, guid: 5990d35f63f2ba44492b8d2c3d4cc5be, type: 3}
+  DisableSplashScreen: 0
+  AppleStoreId: 1390992134
+  iOSAppRaterEnabled: 1
+  AndroidAppRaterEnabled: 1
+  AppRaterDelayAfterLaunchInSeconds: 60
+  AppRaterPostponeCooldownInSeconds: 86400
+  AppRaterMinimumNumberOfGamesPlayed: 5
+  GdprPrimaryColor: {r: 0.9686275, g: 0.5764706, b: 0.1254902, a: 1}
+  VoodooLogLevelInEditor: 0
+  VoodooLogFilter: 255
+  CrossPromo: {}
+  iOSCrossPromotionEnabled: 1
+  AndroidCrossPromotionEnabled: 1
+  EditorIdfa: eb2e07f4-7429-4105-97b8-2bead74f7c01
+  IgnoreTheGoogleKeyError: 0
+  IOSBundleID: com.neonplay.casualsoccerkick
+  AndroidBundleID: com.neonplay.casualsoccerkickandroid
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  UseFirebaseAnalytics: 1
+  MixpanelProdToken: d74b68dce9074e3551b25254c06c2f0f
+  GameAnalyticsIosGameKey: 5d09ec7e8e5edcaea0bd2f151637d5b7
+  GameAnalyticsIosSecretKey: 655c78aa413a92646b7eb23ff15e215978b25011
+  GameAnalyticsAndroidGameKey: 05f3ffd603823918e70fd066a13e45ed
+  GameAnalyticsAndroidSecretKey: be002214809731a14da0a345686ae4aad045adfc
+  MopubIosAdUnits:
+    BannerAdUnit: 86f15df47d6a4d0a80f5073491416a3d
+    InterstitialAdUnit: e65f03952c454d92bbeacd09637d67c5
+    RewardedVideoAdUnit: 1f2e2d94eb1f4e0c8ee7c2f04d2ff01c
+    InterstitialAtLaunchAdUnit:
+  MopubAndroidAdUnits:
+    BannerAdUnit: e8422064835d475aaafafbc1704fdc98
+    InterstitialAdUnit: 9c22022a2fdc430d82f6fbb3b269165a
+    RewardedVideoAdUnit: aab845929cdd4e5c9fef98bdb344ced9
+    InterstitialAtLaunchAdUnit:
+  IsSecondaryInterstitialAdUnitEnabled: 0
+  IsSecondaryRewardedVideoAdUnitEnabled: 0
+  SecondaryIosInterstitialAdUnit:
+  SecondaryIosRewardedVideoAdUnit:
+  SecondaryAndroidInterstitialAdUnit:
+  SecondaryAndroidRewardedVideoAdUnit:
+  MaxAdsIosAdUnits:
+    BannerAdUnit: fa5e4bfe726ccf6c
+    InterstitialAdUnit: 36b4a49de822f2bc
+    RewardedVideoAdUnit: 49689d83ce3c30da
+    InterstitialAtLaunchAdUnit:
+  MaxAdsAndroidAdUnits:
+    BannerAdUnit: 2aef663e2de017de
+    InterstitialAdUnit: 3f061f6b0de9be2b
+    RewardedVideoAdUnit: 098d3e339572b9ac
+    InterstitialAtLaunchAdUnit:
+  MaxSdkKey: E1M7r57HoT7PoxvgxbXnJLA55TKI1GOGHmO6rVNdzV1mQwQMWz7rJIxOrGgtW48prWwf1II-oKkDF9Zn7gbQzX
+  TapjoyIosSdkKey: KLNV2z04Tp69SYx4kPGBggEB2vxmdrTYdJ8kV51Vp7EOy4_FZGfjI43aQ0S8
+  TapjoyAndroidSdkKey: GwwRnnlwR8ulfjEHMVX_mAEChf7FDoTv6k0xwWTv2u2cXRPvIsK_VPsmvuNq
+  AdMobAndroidAppId: ca-app-pub-6354112556091525~2722318101
+  AdMobIosAppId: ca-app-pub-6354112556091525~8851191969
+  PangleAndroidAppId:
+  PangleIosAppId: 5011630
+  OguryAndroidAppKey:
+  OguryIosAppKey:
+  SnapIosAppId:
+  SnapAndroidAppId:
+  VungleIosAppId: 61b221a5cef56f0e8feb4183
+  VungleAndroidAppId: 61b221b9b1c78729e4070e65
+  TencentIosAppId:
+  AdColonyIosAppId:
+  AdColonyIosBannerZoneId:
+  AdColonyIosInterstitialZoneId:
+  AdColonyIosRewardedVideoZoneId:
+  AdColonyAndroidAppId:
+  AdColonyAndroidBannerZoneId:
+  AdColonyAndroidInterstitialZoneId:
+  AdColonyAndroidRewardedVideoZoneId:
+  IronSourceIosAppId: 749a2dd5
+  IronSourceAndroidAppId: 78d84e5d
+  VerizonIosSiteId:
+  VerizonAndroidSiteId:
+  ChatboostIosAppId:
+  ChatboostIosAppSignature:
+  ChatboostAndroidAppId:
+  ChatboostAndroidAppSignature:
+  FyberIosAppId: 109377
+  FyberAndroidAppId: 109378
+  FiveIosAppId:
+  FiveAndroidAppId:
+  FiveTestMode: 0
+  AdjustIosAppToken: ogxbn4ai18n4
+  AdjustAndroidAppToken: 402oopmfhji8

@@ -13,6 +13,12 @@ public enum NetworkLoading
     Ready
 }
 
+public enum GameState
+{
+    Play,
+    Pause
+}
+
 public static class StaticVariable
 {
     public static bool isLoaded = false;

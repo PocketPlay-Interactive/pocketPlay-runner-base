@@ -42,10 +42,9 @@ public class PoolByID : MonoSingleton<PoolByID>
         {
             for (int i = 0; i < pools[id].Count; i++)
             {
-                if (!pools[id][i].activeSelf)
+                if (!pools[id][i].activeInHierarchy)
                 {
                     pools[id][i].SetActive(true);
-
                     return pools[id][i];
                 }
             }
@@ -106,6 +105,22 @@ public class PoolByID : MonoSingleton<PoolByID>
     public void PushToPool(GameObject obj)
     {
         if (obj != null)
+        {
+            var id = obj.GetInstanceID();
+            if (pools.ContainsKey(id))
+            {
+                if (!pools[id].Contains(obj))
+                    pools[id].Add(obj);
+            }
+            else
+            {
+                //Create pool
+                pools.Add(id, new List<GameObject>());
+                pools[id].Add(obj);
+            }
+
+            obj.transform.parent = null;
             obj.SetActive(false);
+        }
     }
 }

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291376986616",
+    "firebase_url": "https://soccer-kick-caa64.firebaseio.com",
+    "project_id": "soccer-kick-caa64",
+    "storage_bucket": "soccer-kick-caa64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291376986616:android:8b1eb9cd02f233a9377e0d",
+        "android_client_info": {
+          "package_name": "com.neonplay.casualsoccerkickandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291376986616-p0s7ddoqa280i6mpbsp0b6h05fa3q7ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdefyoXW_SYLu2OW84AGOYX-_a-ki1Eys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291376986616-p0s7ddoqa280i6mpbsp0b6h05fa3q7ns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291376986616-3r05rolfhl5tnr59i0t0n5urt0hkvrg5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neonplay.casualsoccerkick"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

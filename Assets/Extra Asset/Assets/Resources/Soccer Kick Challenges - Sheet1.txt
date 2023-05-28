@@ -1,0 +1,94 @@
+ID,Name,Type,Description,Variable Tracked,Unit Amount,Level,Reward Currency,Reward Start Value
+0,Distance_Accumulation,Accumulation,loc_challenge_distance_accum,Distance,Dynamic,0,Coins,1000
+1,Money_Earned_Accumulation,Accumulation,loc_challenge_coins_accum,Money,Dynamic,0,Coins,1000
+2,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,5,0,Coins,1000
+3,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,10,3,Coins,1000
+4,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,20,5,Coins,1000
+5,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,30,6,Coins,1000
+6,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,40,7,Coins,1000
+7,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,50,8,Coins,1000
+8,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,60,9,Coins,1000
+9,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,70,10,Coins,1000
+10,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,80,11,Coins,1000
+11,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,90,12,Coins,1000
+12,Shots_Accumulation,Accumulation,loc_challenge_shots_accum,Shot,100,13,Coins,1000
+13,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,3,0,Coins,1000
+14,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,5,3,Coins,1000
+15,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,7,5,Coins,1000
+16,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,10,6,Coins,1000
+17,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,13,7,Coins,1000
+18,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,18,8,Coins,1000
+19,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,22,9,Coins,1000
+20,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,26,10,Coins,1000
+21,Goals_Accumulation,Accumulation,loc_challenge_goals_accum,Goal,30,11,Coins,1000
+22,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,3,0,Coins,1000
+23,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,5,3,Coins,1000
+24,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,7,5,Coins,1000
+25,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,10,6,Coins,1000
+26,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,13,7,Coins,1000
+27,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,18,8,Coins,1000
+28,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,22,9,Coins,1000
+29,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,26,10,Coins,1000
+30,Perfects_Accumulation,Accumulation,loc_challenge_perfect_accum,Perfect,30,11,Coins,1000
+31,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,2,0,Coins,1000
+32,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,3,3,Coins,1000
+33,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,4,5,Coins,1000
+34,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,5,6,Coins,1000
+35,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,6,7,Coins,1000
+36,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,7,8,Coins,1000
+37,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,8,9,Coins,1000
+38,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,9,10,Coins,1000
+39,Goals_Streak,Streak,loc_challenge_goals_streak,Goal,10,11,Coins,1000
+40,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,2,0,Coins,1000
+41,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,3,3,Coins,1000
+42,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,4,5,Coins,1000
+43,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,5,6,Coins,1000
+44,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,6,7,Coins,1000
+45,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,7,8,Coins,1000
+46,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,8,9,Coins,1000
+47,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,9,10,Coins,1000
+48,Perfects_Streak,Streak,loc_challenge_perfect_streak,Perfect,10,11,Coins,1000
+49,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,2,0,Coins,1000
+50,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,5,3,Coins,1000
+51,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,8,5,Coins,1000
+52,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,10,6,Coins,1000
+53,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,15,7,Coins,1000
+54,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,20,8,Coins,1000
+55,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,25,9,Coins,1000
+56,Cars_Hit_Accumulation,Accumulation,loc_challenge_vehicles_accum,Car Hit,30,10,Coins,1000
+57,Landmarks_Hit_Accumulation,Accumulation,loc_challenge_landmark_accum,Landmark Hit,1,0,Coins,1000
+58,Landmarks_Hit_Accumulation,Accumulation,loc_challenge_landmark_accum,Landmark Hit,2,3,Coins,1000
+59,Landmarks_Hit_Accumulation,Accumulation,loc_challenge_landmark_accum,Landmark Hit,3,5,Coins,1000
+60,Landmarks_Hit_Accumulation,Accumulation,loc_challenge_landmark_accum,Landmark Hit,4,10,Coins,1000
+61,Landmarks_Hit_Accumulation,Accumulation,loc_challenge_landmark_accum,Landmark Hit,5,15,Coins,1000
+62,Strength_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_strength_accum,Strength Upgrade,2,0,Coins,1000
+63,Strength_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_strength_accum,Strength Upgrade,3,3,Coins,1000
+64,Strength_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_strength_accum,Strength Upgrade,4,5,Coins,1000
+65,Strength_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_strength_accum,Strength Upgrade,5,6,Coins,1000
+66,Bounce_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_bounce_accum,Bounce Upgrade,2,0,Coins,1000
+67,Bounce_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_bounce_accum,Bounce Upgrade,3,3,Coins,1000
+68,Bounce_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_bounce_accum,Bounce Upgrade,4,5,Coins,1000
+69,Bounce_Upgraded_Accululation,Accumulation,loc_challenge_upgrade_bounce_accum,Bounce Upgrade,5,6,Coins,1000
+70,Offline_Upgraded_Accumulation,Accumulation,loc_challenge_upgrade_offline_accum,Offline Upgrade,2,0,Coins,1000
+71,Offline_Upgraded_Accumulation,Accumulation,loc_challenge_upgrade_offline_accum,Offline Upgrade,3,3,Coins,1000
+72,Offline_Upgraded_Accumulation,Accumulation,loc_challenge_upgrade_offline_accum,Offline Upgrade,4,5,Coins,1000
+73,Offline_Upgraded_Accumulation,Accumulation,loc_challenge_upgrade_offline_accum,Offline Upgrade,5,6,Coins,1000
+74,Water_Hit_Accumulation,Accumulation,loc_challenge_water_accum,Water Hit,2,0,Coins,1000
+75,Water_Hit_Accumulation,Accumulation,loc_challenge_water_accum,Water Hit,3,3,Coins,1000
+76,Water_Hit_Accumulation,Accumulation,loc_challenge_water_accum,Water Hit,4,5,Coins,1000
+77,Water_Hit_Accumulation,Accumulation,loc_challenge_water_accum,Water Hit,5,6,Coins,1000
+78,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,5,0,Coins,1000
+79,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,10,3,Coins,1000
+80,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,20,5,Coins,1000
+81,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,30,6,Coins,1000
+82,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,40,7,Coins,1000
+83,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,50,8,Coins,1000
+84,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,60,9,Coins,1000
+85,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,70,10,Coins,1000
+86,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,80,11,Coins,1000
+87,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,90,12,Coins,1000
+88,After_Touch_Bounce_Accumulaton,Accumulation,loc_challenge_aftertouch_bouce_accum,AfterTouch Bounce,100,13,Coins,1000
+89,Bunkers_Hit_ Accumlations,Accumulation,loc_challenge_sand_accum,Sand Hit,2,0,Coins,1000
+90,Bunkers_Hit_ Accumlations,Accumulation,loc_challenge_sand_accum,Sand Hit,3,3,Coins,1000
+91,Bunkers_Hit_ Accumlations,Accumulation,loc_challenge_sand_accum,Sand Hit,4,5,Coins,1000
+92,Bunkers_Hit_ Accumlations,Accumulation,loc_challenge_sand_accum,Sand Hit,5,6,Coins,1000

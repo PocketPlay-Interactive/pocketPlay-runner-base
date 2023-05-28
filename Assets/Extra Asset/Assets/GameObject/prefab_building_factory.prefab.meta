@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d24d473ad8db5a34e8a82c933de0dac5
+timeCreated: 1661513768
+licenseType: Free
+PrefabImporter:
+  objectHideFlags: 0
+  correspondingSourceObject: {fileID: 0}
+  prefabInstance: {fileID: 0}
+  prefabAsset: {fileID: 0}
+  name:
+  externalObjects: {}
+  addedObjectFileIDs: []
+  isPrefabVariant: 0
+  unableToImportOnPreviousDomainReload: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 1f3cb1d43f02b4644b23ce39308c0739
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icon_goldengatebridge
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_goldengatebridge
+      rect:
+        serializedVersion: 2
+        x: 0.076120496
+        y: 12.07612
+        width: 81.84776
+        height: 56.847763
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.5087954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.000004, y: -28.500002}
+        - {x: -41.000004, y: -21.500002}
+        - {x: -41.000004, y: -2.500002}
+        - {x: -25.000004, y: 28.499998}
+        - {x: 28.999996, y: 28.499998}
+        - {x: 40.999996, y: 3.499998}
+        - {x: 40.999996, y: -24.500002}
+        - {x: 33.999996, y: -28.500002}
+      physicsShape:
+      - - {x: 40.999996, y: -13.500002}
+        - {x: 40.999996, y: -6.500002}
+        - {x: 18.999996, y: 13.499998}
+        - {x: 17.999996, y: 28.499998}
+        - {x: 9.999995, y: 28.499998}
+        - {x: 6.999996, y: 27.499996}
+        - {x: -2.0000038, y: 3.499998}
+        - {x: -9.000004, y: 28.499998}
+        - {x: -19.000004, y: 28.499998}
+        - {x: -41.000004, y: -7.500002}
+        - {x: -41.000004, y: -14.500001}
+        - {x: -20.000002, y: -28.500002}
+        - {x: -10.000003, y: -28.500002}
+        - {x: -7.000004, y: -27.500002}
+        - {x: -0.0000038146973, y: -28.500002}
+        - {x: 17.999996, y: -28.500002}
+        - {x: 19.999994, y: -16.500002}
+        - {x: 39.999992, y: -16.500002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af8d191bf44f2ba5690ceb42304f6a
+      internalID: 21300000
+      vertices:
+      - {x: 82, y: 44}
+      - {x: 75, y: 12}
+      - {x: 82, y: 16}
+      - {x: 70, y: 69}
+      - {x: 16, y: 69}
+      - {x: 10, y: 12}
+      - {x: 0, y: 38}
+      - {x: 0, y: 19}
+      indices: 070000000600000005000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

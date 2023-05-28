@@ -1,0 +1,11 @@
+Achievement,Value,strip_id
+gameScore,2500,arsenal
+gameScore,10000,barcelona
+totalScore,5000,bayern_munchen
+totalScore,50000,juventus
+gamesPlayed,10,chelsea_fc
+gamesPlayed,100,paris_st_germain
+perfects,10,manchester_city
+perfects,100,real_madrid
+daysPlayed,3,liverpool
+daysPlayed,7,manchester_united

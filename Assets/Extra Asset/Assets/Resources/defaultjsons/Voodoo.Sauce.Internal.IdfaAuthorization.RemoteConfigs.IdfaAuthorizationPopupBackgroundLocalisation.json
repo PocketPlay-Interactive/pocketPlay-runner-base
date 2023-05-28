@@ -1,0 +1,79 @@
+[
+  {
+    "language": "English",
+    "title": "Thank you for playing «{0}»!",
+    "body": "Voodoo games are mainly funded by personalized advertising. Please allow us to collect technical data (such as your mobile advertising ID) in order to provide you with personalized content and advertising and to improve your gaming experience.",
+    "allowButtonText": "Next",
+    "denyButtonText": "Not now"
+  },
+  {
+    "language": "French",
+    "title": "Merci de jouer à «{0}» !",
+    "body": "Les jeux Voodoo sont gratuits grâce à la publicité. Permettez-nous de collecter des données techniques (comme votre identifiant publicitaire mobile) pour vous proposer des publicités et contenus personnalisés et améliorer votre expérience de jeu.",
+    "allowButtonText": "Suivant",
+    "denyButtonText": "Plus tard"
+  },
+  {
+    "language": "German",
+    "title": "Danke, dass Sie \"{0}\" spielen!",
+    "body": "Voodoo-Spiele werden vor allem durch personalisierte Werbung finanziert. Bitte lassen Sie uns technische Daten (z. B. Ihre mobile Werbe-ID) sammeln, um Ihnen personalisierte Inhalte und Werbung anzubieten und Ihr Spielerlebnis zu verbessern.",
+    "allowButtonText": "Nächste",
+    "denyButtonText": "Nicht jetzt"
+  },
+  {
+    "language": "Italian",
+    "title": "Grazie per aver giocato a \"{0}\"!",
+    "body": "I giochi di Voodoo sono gratuiti grazie alla pubblicità personalizzata. Consentici di raccogliere alcuni dati tecnici (come il tuo ID pubblicità) per poter personalizzare i contenuti e la pubblicità, in modo da migliorare la tua esperienza di gioco.",
+    "allowButtonText": "Successivo",
+    "denyButtonText": "Non adesso"
+  },
+  {
+    "language": "Spanish",
+    "title": "¡Gracias por jugar a «{0}»!",
+    "body": "Los juegos de Voodoo son gratis porque usamos publicidad. Permítenos recopilar datos técnicos, como tu identificador de publicidad móvil, para ofrecerte publicidad y contenido personalizados y mejorar, así, tu experiencia de juego.",
+    "allowButtonText": "Siguiente",
+    "denyButtonText": "Más adelante"
+  },
+  {
+    "language": "Arabic",
+    "title": "!«{0}» نشكرك على لعب",
+    "body": "يتم تمويل ألعاب Voodoo بشكل رئيسي عن طريق الإعلانات المخصّصة. يرجى السماح لنا بجمع البيانات التقنية (مثل مُعرّف الإعلانات الخاص بجوّالك) لتزويدك بمحتوى وإعلانات مخصّصة وتحسين تجربتك في الألعاب.",
+    "allowButtonText": "التالي",
+    "denyButtonText": "ليس الآن."
+  },
+  {
+    "language": "Japanese",
+    "title": "«{0}» で遊んでいただきありがとうございます!",
+    "body": "ブードゥーゲームは、 主にパーソナライズされた広告によって資金を得ています。 カスタマイズされたコンテンツと広告のご提供およびゲーム体験の改善のために、 技術的なデータ(モバイル広告IDなど)を収集することをお許めください。",
+    "allowButtonText": "次へ",
+    "denyButtonText": "今はしない"
+  },
+  {
+    "language": "Portuguese",
+    "title": "Obrigado por jogar “{0}”!",
+    "body": "Os jogos Voodoo são financiados principalmente por publicidade personalizada. Por favor, permita-nos coletar dados técnicos (como seu ID de publicidade móvel), a fim de fornecer-lhe publicidade e conteúdo personalizado e de melhorar a sua experiência de jogo.",
+    "allowButtonText": "Seguinte",
+    "denyButtonText": "Agora não"
+  },
+  {
+    "language": "Russian",
+    "title": "Спасибо за то, что играете в «{0}»!",
+    "body": "Игры Voodoo в основном финансируются за счет персонализированной рекламы. Разрешите нам собирать технические данные (например, мобильный идентификатор получателя рекламы), чтобы предлагать Вам персонализированный контент и рекламу и улучшить Ваш игровой опыт.",
+    "allowButtonText": "Следующий",
+    "denyButtonText": "Не сейчас"
+  },
+  {
+    "language": "ChineseSimplified",
+    "title": "‘感谢下载’ —— «{0}»团队",
+    "body": "Voodoo 通过个性化的广告获得资金支持。 请允 许我们收集技术信息 （比如设备广告ID） 以确保 个性化的广告内容及最优的游戏体验",
+    "allowButtonText": "下一步",
+    "denyButtonText": "跳过"
+  },
+  {
+    "language": "ChineseTraditional",
+    "title": "‘感谢下载’ —— «{0}»团队",
+    "body": "Voodoo 通过个性化的广告获得资金支持。 请允 许我们收集技术信息 （比如设备广告ID） 以确保 个性化的广告内容及最优的游戏体验",
+    "allowButtonText": "下一步",
+    "denyButtonText": "跳过"
+  }
+]

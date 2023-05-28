@@ -21,6 +21,12 @@ public static class VectorExtensions
         return vec;
     }
 
+    public static Vector3 AddZ(this Vector3 vec, float addZ)
+    {
+        vec.z += addZ;
+        return vec;
+    }
+
     public static Vector2 WithX(this Vector2 vec, float x)
     {
         vec.x = x;

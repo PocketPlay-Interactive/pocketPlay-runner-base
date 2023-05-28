@@ -22,18 +22,19 @@ public class UIHelper : MonoSingleton<UIHelper>
         return default(T);
     }
 
-    public static T FindScript<T>(bool isHide)
+    public static T GetScript<T>()
     {
+        T response = default(T);
         for (int i = 0; i < Instance.transform.childCount; i++)
         {
             var _child = Instance.transform.GetChild(i);
             var _childScript = _child.GetComponent<T>();
             if (_childScript != null)
-                return _childScript;
+                response = _childScript;
             else
-                _child.gameObject.SetActive(isHide);
+                _child.gameObject.GetComponent<UICanvas>().Hide();
         }
 
-        return default(T);
+        return response;
     }
 }

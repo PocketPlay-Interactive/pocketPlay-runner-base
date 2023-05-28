@@ -1,0 +1,68 @@
+[
+  {
+    "language": "English",
+    "title": "This game is free thanks to advertising.",
+    "body": "If you prefer to see contents and ads that are personalised to your tastes and interests (for instance to discover other cool games), just allow tracking on the next screen.",
+    "allowButtonText": "Next"
+  },
+  {
+    "language": "French",
+    "title": "L’accès à ce jeu est gratuit grâce à la publicité.",
+    "body": "Si vous préférez voir des contenus et des publicités personnalisées selon vos goûts et vos centres d’intérêt (par exemple, pour découvrir d’autres jeux sympas), il vous suffit d’autoriser le traçage sur l’écran suivant.",
+    "allowButtonText": "Suivant"
+  },
+  {
+    "language": "German",
+    "title": "Dieses Spiel ist dank Werbung kostenlos.",
+    "body": "Wenn Sie es vorziehen, Inhalte und Anzeigen zu sehen, die auf Ihren Geschmack und Ihre Interessen zugeschnitten sind (z. B. um andere coole Spiele zu entdecken), lassen Sie einfach das Tracking auf dem nächsten Bildschirm zu.",
+    "allowButtonText": "Nächste"
+  },
+  {
+    "language": "Italian",
+    "title": "Questo gioco è gratuito grazie alla pubblicità.",
+    "body": "Se preferisci visualizzare contenuti e annunci personalizzati in base ai tuoi gusti e ai tuoi interessi (per esempio per scoprire altri giochi interessanti), autorizza il tracciamento sulla schermata successiva.",
+    "allowButtonText": "Successivo"
+  },
+  {
+    "language": "Spanish",
+    "title": "Este juego es gratuito gracias a la publicidad.",
+    "body": "Si prefieres ver contenidos y anuncios personalizados en función de tus gustos e intereses (por ejemplo, para descubrir otros juegos geniales), sólo tienes que permitir el seguimiento en la siguiente pantalla.",
+    "allowButtonText": "Siguiente"
+  },
+  {
+    "language": "Arabic",
+    "title": "هذه اللعبة مجانية بفضل الإعلانات.",
+    "body": "إذا كنت تفضل رؤية المحتويات والإعلانات التي تناسب ذوقك واهتماماتك الشخصية (كاكتشاف ألعاب رائعة أخرى على سبيل المثال)، فكل ما عليك هو السماح بخاصية التتبع على الشاشة التالية.",
+    "allowButtonText": "التالي"
+  },
+  {
+    "language": "Japanese",
+    "title": "このゲームは広告のおかげで無料です。",
+    "body": "お好みや興味に合わせてパーソ ナライズされたコンテンツや広告 (例えば他のクールなゲームを発見するなど) のほうが見たい場合は、 次の画面でトラッキングを許可してください。",
+    "allowButtonText": "次へ"
+  },
+  {
+    "language": "Portuguese",
+    "title": "Este jogo é grátis graças a publicidade.",
+    "body": "Se você preferir ver conteúdos e anúncios personalizados com seus gostos e interesses (por exemplo, para descobrir outros jogos legais), basta permitir o rastreamento na próxima tela.",
+    "allowButtonText": "Seguinte"
+  },
+  {
+    "language": "Russian",
+    "title": "Эта игра предоставляется бесплатно благодаря рекламе.",
+    "body": "Если вы предпочитаете просматривать содержимое и рекламные объявления, персонализированные в соответствии с вашими вкусами и интересами (например, чтобы узнавать о других увлекательных играх), разрешите отслеживание в следующем окне.",
+    "allowButtonText": "Следующий"
+  },
+  {
+    "language": "ChineseSimplified",
+    "title": "感谢广告商的投资，本游戏为免费游戏",
+    "body": "如果您希望看到根据您的口 味和兴趣定制的内容和广告 （例如，其他很酷的游戏推荐）， 只需在下一个屏幕上允许跟踪即可。",
+    "allowButtonText": "下一步"
+  },
+  {
+    "language": "ChineseTraditional",
+    "title": "感谢广告商的投资，本游戏为免费游戏",
+    "body": "如果您希望看到根据您的口 味和兴趣定制的内容和广告 （例如，其他很酷的游戏推荐）， 只需在下一个屏幕上允许跟踪即可。",
+    "allowButtonText": "下一步"
+  }
+]

@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 97910526329311541b5f22193349581a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icon_statueofliberty
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_statueofliberty
+      rect:
+        serializedVersion: 2
+        x: 14.07612
+        y: 0.076120496
+        width: 53.910973
+        height: 81.84776
+      alignment: 9
+      pivot: {x: 0.49941373, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.968395, y: -41.000004}
+        - {x: -27.031609, y: -41.000004}
+        - {x: -27.031609, y: 40.999996}
+        - {x: -2.0316067, y: 40.999996}
+        - {x: 7.9683933, y: 12.999996}
+        - {x: 26.968395, y: -2.0000038}
+      physicsShape:
+      - - {x: 18.968393, y: -18.000004}
+        - {x: 20.968393, y: -16.000004}
+        - {x: 19.968391, y: -6.000004}
+        - {x: 15.968393, y: -2.0000038}
+        - {x: 5.9683933, y: 5.999996}
+        - {x: -6.0316067, y: 0.9999962}
+        - {x: -10.031606, y: 3.9999962}
+        - {x: -5.031606, y: 20.999996}
+        - {x: -8.031607, y: 39.999992}
+        - {x: -17.031607, y: 39.999992}
+        - {x: -27.031605, y: 24.999996}
+        - {x: -27.031605, y: 18.999996}
+        - {x: -22.031607, y: -9.000004}
+        - {x: -27.031605, y: -15.000003}
+        - {x: -27.031605, y: -26.000004}
+        - {x: -25.031607, y: -39.000004}
+        - {x: -23.031605, y: -41.000004}
+        - {x: 20.968393, y: -41.000004}
+        - {x: 22.968391, y: -39.000004}
+        - {x: 21.968393, y: -34.000004}
+        - {x: 13.968393, y: -20.000002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7b2293c6bc475484edcda86bb88090
+      internalID: 21300000
+      vertices:
+      - {x: 49, y: 54}
+      - {x: 68, y: 0}
+      - {x: 68, y: 39}
+      - {x: 39, y: 82}
+      - {x: 13.999998, y: 82}
+      - {x: 13.999998, y: 0}
+      indices: 050000000400000001000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,79 @@
+[
+  {
+    "language": "English",
+    "title": "Allow personalized ads or purchase the ad-free version",
+    "body": "Voodoo games are mainly funded by personalized advertising. Please allow us to collect technical data (such as your mobile advertising ID) in order to provide you with personalized content or choose to remove ads from the game",
+    "allowButtonText": "Ad-free version",
+    "denyButtonText": "Personalized ads"
+  },
+  {
+    "language": "French",
+    "title": "Autorisez les annonces personnalisées, ou souscrivez à la version sans publicité",
+    "body": "Les jeux Voodoo sont gratuits grâce à la publicité. Permettez-nous de collecter des données techniques (comme votre identifiant publicitaire mobile) pour vous proposer des publicités et contenus personnalisés et améliorer votre expérience de jeu.",
+    "allowButtonText": "Version sans publicité",
+    "denyButtonText": "Publicité personnalisée"
+  },
+  {
+    "language": "German",
+    "title": "Erlauben Sie personalisierte Anzeigen oder kaufen Sie die werbefreie Version",
+    "body": "Voodoo-Spiele werden vor allem durch personalisierte Werbung finanziert. Bitte lassen Sie uns technische Daten (z. B. Ihre mobile Werbe-ID) sammeln, um Ihnen personalisierte Inhalte und Werbung anzubieten und Ihr Spielerlebnis zu verbessern.",
+    "allowButtonText": "Werbefreie Version",
+    "denyButtonText": "Personalisierte Anzeigen"
+  },
+  {
+    "language": "Italian",
+    "title": "Accetta le pubblicità personalizzate, oppure acquista la versione priva di pubblicità",
+    "body": "I giochi di Voodoo sono gratuiti grazie alla pubblicità personalizzata. Consentici di raccogliere alcuni dati tecnici (come il tuo ID pubblicità) per poter personalizzare i contenuti e la pubblicità, in modo da migliorare la tua esperienza di gioco.",
+    "allowButtonText": "Versione priva di pubblicità",
+    "denyButtonText": "Pubblicità personalizzate"
+  },
+  {
+    "language": "Spanish",
+    "title": "Permite publicidad personalizada o adquiere la versión sin anuncios",
+    "body": "Los juegos de Voodoo son gratis porque usamos publicidad. Permítenos recopilar datos técnicos, como tu identificador de publicidad móvil, para ofrecerte publicidad y contenido personalizados y mejorar, así, tu experiencia de juego.",
+    "allowButtonText": "Versión sin anuncios",
+    "denyButtonText": "Publicidad personalizada"
+  },
+  {
+    "language": "Arabic",
+    "title": "السماح بالإعلانات المخصّصة أو شراء النسخة الخالية من الإعلانات",
+    "body": "يتم تمويل ألعاب Voodoo بشكل رئيسي عن طريق الإعلانات المخصّصة. يرجى السماح لنا بجمع البيانات التقنية (مثل مُعرّف الإعلانات الخاص بجوّالك) لتزويدك بمحتوى شخصي أو اختيار إزالة الإعلانات من اللعبة",
+    "allowButtonText": "الإصدار الخالي من الإعلانات",
+    "denyButtonText": "إعلانات مخصّصة"
+  },
+  {
+    "language": "Japanese",
+    "title": "パーソナライズされた広告を使用するか、 広告なしバージョンを購入する",
+    "body": "ブードゥーゲームは、 主にパーソナライズされた広告によって資金を得ています。 個別のコンテンツの提供やゲームから広告を削除するため、 技術的なデータ(モバイル広告IDなど)を収集することをお許めください。",
+    "allowButtonText": "広告なしバージョン",
+    "denyButtonText": "パーソナライズされた広告"
+  }
+  {
+    "language": "Portuguese",
+    "title": "Permitir anúncios personalizados ou comprar a versão sem anúncios",
+    "body": "Os jogos Voodoo são financiados principalmente por publicidade personalizada. Por favor, permita-nos coletar dados técnicos (como seu ID de publicidade móvel), a fim de fornecer-lhe publicidade e conteúdo personalizado ou opte por remover os anúncios do jogo",
+    "allowButtonText": "Versão sem anúncios disponível",
+    "denyButtonText": "Anúncios personalizados"
+  },
+  {
+    "language": "Russian",
+    "title": "Разрешить получение персонализированной рекламы или приобрести версию без рекламы",
+    "body": "Игры Voodoo в основном финансируются за счет персонализированной рекламы. Разрешите нам собирать технические данные (например, мобильный идентификатор получателя рекламы), чтобы предлагать Вам персонализированный контент или принять решение об удалении рекламы из игры",
+    "allowButtonText": "Версия без рекламы",
+    "denyButtonText": "Персонализированная реклама"
+  },
+  {
+    "language": "ChineseSimplified",
+    "title": "玩免费版本接受个性化广告 ，或购买无广告版本",
+    "body": "Voodoo通过个性化的广告获得资 金支持。请允许我们收集技术信 息（比如设备广告ID）以确保个 性化的广告内容及最优的游戏体 验",
+    "allowButtonText": "无广告版本",
+    "denyButtonText": "接受个性化广告"
+  },
+  {
+    "language": "ChineseTraditional",
+    "title": "玩免费版本接受个性化广告 ，或购买无广告版本",
+    "body": "Voodoo通过个性化的广告获得资 金支持。请允许我们收集技术信 息（比如设备广告ID）以确保个 性化的广告内容及最优的游戏体 验",
+    "allowButtonText": "无广告版本",
+    "denyButtonText": "接受个性化广告"
+  }
+]
