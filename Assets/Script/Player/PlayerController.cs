@@ -23,6 +23,8 @@ public partial class PlayerController : MonoBehaviour
         });
     }
 
+    // I think using a delegate may not be necessary in this part, but I included it for completeness.
+
     private void OnEnable()
     {
         GameEvent.OnChangeSkin += OnChangeSkin;
